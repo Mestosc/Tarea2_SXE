@@ -32,7 +32,7 @@ Activamos lo que necesitamos a nivel del servidor apache,segun lo que he buscado
 ### Configuracion de Wordpress
 Introducimos las credenciales de nuestra base de datos en la pagina que wordpress nos proporciona
 <img width="765" height="531" alt="image" src="https://github.com/user-attachments/assets/3a626e2d-65c0-400f-80c7-666129a5cfd7" />
-Luego nos va a mostrar las reglas de configuracion en un archivo **wp-config.php**, diciendome que necesito crear manualmente este archivo que no puede escribirlo, no es un problema lo creo y guardo lo que me indica
+Luego nos va a mostrar las reglas de configuracion en un archivo **wp-config.php**, diciendome que necesito crear manualmente este archivo que no puede escribirlo, no es un problema lo creo y guardo lo que me indica, de hecho esto probablemente pasa debido a un problema que no vi en este momento con los permisos y que resuelvo más adelante
 <img width="765" height="531" alt="image" src="https://github.com/user-attachments/assets/8bf5ec03-339b-47cb-a32f-29223a7710c9" />
 Tal y como muestro a continuacion
 <img width="843" height="824" alt="image" src="https://github.com/user-attachments/assets/a4474ad4-c363-4f61-8ab1-7f2037dab343" />
