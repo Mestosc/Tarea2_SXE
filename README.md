@@ -27,23 +27,31 @@ Entramos a la base de datos y aplicamos algunas configuraciones
 <img width="707" height="167" alt="image" src="https://github.com/user-attachments/assets/9f1a6d76-416b-4365-80a4-a2740bdde289" />
 
 ### Configuracion del servidor web
-Activamos lo que necesitamos a nivel del servidor apache,segun lo que he buscado
+Activamos lo que necesitamos a nivel del servidor apache,segun lo que he buscado seria algo así
+
 <img width="707" height="167" alt="image" src="https://github.com/user-attachments/assets/0e5ff94c-6aba-4074-8016-f5f60eeede3e" />
 ### Configuracion de Wordpress
 Introducimos las credenciales de nuestra base de datos en la pagina que wordpress nos proporciona
+
 <img width="765" height="531" alt="image" src="https://github.com/user-attachments/assets/3a626e2d-65c0-400f-80c7-666129a5cfd7" />
+
 Luego nos va a mostrar las reglas de configuracion en un archivo **wp-config.php**, diciendome que necesito crear manualmente este archivo que no puede escribirlo, no es un problema lo creo y guardo lo que me indica, de hecho esto probablemente pasa debido a un problema que no vi en este momento con los permisos y que resuelvo más adelante
 <img width="765" height="531" alt="image" src="https://github.com/user-attachments/assets/8bf5ec03-339b-47cb-a32f-29223a7710c9" />
+
 Tal y como muestro a continuacion
+
 <img width="843" height="824" alt="image" src="https://github.com/user-attachments/assets/a4474ad4-c363-4f61-8ab1-7f2037dab343" />
+
 #### Informacion del sitio
 
 <img width="843" height="824" alt="image" src="https://github.com/user-attachments/assets/5073ef5f-323e-47a7-9fe3-b5b7b9d2b55e" />
+
 ### Personalizacion y toques finales
 
 <img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/c8f6aad6-7443-48a8-ad8d-362da593c7c6" />
 
 #### Wordpress con el tema activado
+
 <img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/6ebba131-6565-4636-abef-cf75e8d5f1e1" />
 
 
