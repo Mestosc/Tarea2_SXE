@@ -14,28 +14,36 @@ Aunque esta maquina ya trae una base de datos voy a hacer lo que me dice el tuto
 
 ### Descarga e instalacion de Wordpress
 Descargamos el comprimido que contiene el aplicativo de Wordpress desde su pagina oficial
+
 <img width="711" height="422" alt="image" src="https://github.com/user-attachments/assets/f084f4aa-eb8b-4a56-b44b-62379c3a9315" />
+
 Hacemos que la carpeta que contiene wordpress sea la carpeta que el servidor utilizar
+
 <img width="629" height="25" alt="image" src="https://github.com/user-attachments/assets/9301684a-ac67-4465-86d7-811a3b33bba6" />
 
 
 
 ## Configuracion
 ### Configuraciones de la base de datos
+
 <img width="530" height="26" alt="image" src="https://github.com/user-attachments/assets/b5be475a-4ad9-4aaf-aa44-3a76ecb26577" />
+
 Entramos a la base de datos y aplicamos algunas configuraciones
+
 <img width="707" height="167" alt="image" src="https://github.com/user-attachments/assets/9f1a6d76-416b-4365-80a4-a2740bdde289" />
 
 ### Configuracion del servidor web
 Activamos lo que necesitamos a nivel del servidor apache,segun lo que he buscado seria algo así
 
 <img width="707" height="167" alt="image" src="https://github.com/user-attachments/assets/0e5ff94c-6aba-4074-8016-f5f60eeede3e" />
+
 ### Configuracion de Wordpress
 Introducimos las credenciales de nuestra base de datos en la pagina que wordpress nos proporciona
 
 <img width="765" height="531" alt="image" src="https://github.com/user-attachments/assets/3a626e2d-65c0-400f-80c7-666129a5cfd7" />
 
 Luego nos va a mostrar las reglas de configuracion en un archivo **wp-config.php**, diciendome que necesito crear manualmente este archivo que no puede escribirlo, no es un problema lo creo y guardo lo que me indica, de hecho esto probablemente pasa debido a un problema que no vi en este momento con los permisos y que resuelvo más adelante
+
 <img width="765" height="531" alt="image" src="https://github.com/user-attachments/assets/8bf5ec03-339b-47cb-a32f-29223a7710c9" />
 
 Tal y como muestro a continuacion
@@ -57,6 +65,7 @@ Tal y como muestro a continuacion
 
 ## Necesario, dar permisos a la carpeta donde se encuentra Wordpress
 Es necesario para que los plugins y temas no den problemas al descargarse
+
 <img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/2404a280-90fc-43ee-84bb-2a43f4a170cd" />
 
 
