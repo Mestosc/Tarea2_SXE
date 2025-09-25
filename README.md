@@ -2,11 +2,13 @@
 ![img.png](./img.png)
 ## Instalación
 ### Instalacion del servidor web
+
 <img width="598" height="34" alt="image" src="https://github.com/user-attachments/assets/46fa6ca7-9b3b-4233-8338-8ba386e2be5e" />
 
 ### Base de datos
 Aunque esta maquina ya trae una base de datos voy a hacer lo que me dice el tutorial por asegurar compatibilidad y pereza para las cosas, tambien aprovecho y meto algunas
 <img width="718" height="69" alt="image" src="https://github.com/user-attachments/assets/b2cbc9c7-a3c9-4fa2-ad3d-8d41e4f4a508" />
+
 
 <img width="720" height="109" alt="image" src="https://github.com/user-attachments/assets/6383e698-3e9e-4553-86c4-1bb3ac58ed83" />
 
@@ -35,7 +37,22 @@ Luego nos va a mostrar las reglas de configuracion en un archivo **wp-config.php
 Tal y como muestro a continuacion
 <img width="843" height="824" alt="image" src="https://github.com/user-attachments/assets/a4474ad4-c363-4f61-8ab1-7f2037dab343" />
 #### Informacion del sitio
+
 <img width="843" height="824" alt="image" src="https://github.com/user-attachments/assets/5073ef5f-323e-47a7-9fe3-b5b7b9d2b55e" />
-### 
+### Personalizacion y toques finales
+
+<img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/c8f6aad6-7443-48a8-ad8d-362da593c7c6" />
+
+#### Wordpress con el tema activado
+<img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/6ebba131-6565-4636-abef-cf75e8d5f1e1" />
+
+
+## Necesario, dar permisos a la carpeta donde se encuentra Wordpress
+Es necesario para que los plugins y temas no den problemas al descargarse
+<img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/2404a280-90fc-43ee-84bb-2a43f4a170cd" />
+
+
+
+
 
 
