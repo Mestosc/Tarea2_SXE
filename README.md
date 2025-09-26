@@ -82,17 +82,17 @@ Aqui la imagen de la informacion en la tienda de temas
 Aqui voy a poner una lista de plugins 
 
 ##### Complianz
-Es un plugin para poner Banners de Cookies que soportan el ser configurados segun diversas politicas de privacidad, permitiendo poner una politica de cookies personalizada
+Es un plugin para poner Banners de Cookies que soportan el ser configurados segun diversas politicas de privacidad, permitiendo poner una politica de cookies personalizada, [Pagina de Wordpress del Plugin](https://wordpress.org/plugins/complianz-gdpr/)
 
 <img width="840" height="816" alt="image" src="https://github.com/user-attachments/assets/587f39f1-af5c-43cc-8363-770edb979a9d" />
 
 ##### Autoptimize
-Es para optimizar la pagina de Wordpress, segun su pagina en el sitio de wordpress
+Es para optimizar la pagina de Wordpress, segun su pagina en el sitio de wordpress, [Pagina de Wordpress del Plugin](https://wordpress.org/plugins/autoptimize/)
 
 <img width="840" height="816" alt="image" src="https://github.com/user-attachments/assets/4690a717-eae3-4b49-9a34-5e232bc1c4af" />
 
 ##### Polylang
-Te permite crear sitios multilingües de una manera facil, dandote opciones para tener sitios con varios idiomas, tiene una version pro que ofrece más caracteristicas [Pagina de Wordpress del plugin](https://wordpress.org/plugins/polylang/)
+Te permite crear sitios multilingües de una manera facil, dandote opciones para tener sitios con varios idiomas, tiene una version pro que ofrece más caracteristicas [Pagina de Wordpress del plugin](https://wordpress.org/plugins/polylang/), en este caso al no tener el un switcher de idioma configurado en la web no me da mucha opcion, así que bueno aparecio por defecto en gallego cuando lo probe porque lo añadi antes pero bueno se puede ver que no aparecen los posts en diversos idiomas repetidos
 
 <img width="840" height="816" alt="image" src="https://github.com/user-attachments/assets/bede4629-8f2a-40f1-b8ed-290152d86479" />
 
