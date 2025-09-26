@@ -21,7 +21,7 @@ Descargamos el comprimido que contiene el aplicativo de Wordpress desde su pagin
 
 <img width="711" height="422" alt="image" src="https://github.com/user-attachments/assets/f084f4aa-eb8b-4a56-b44b-62379c3a9315" />
 
-Hacemos que la carpeta que contiene wordpress sea la carpeta que el servidor utilizar, y le damos los permisos correspondientes para asegurar que se puedan llevar a cabo las configuraciones
+Hacemos que la carpeta que contiene wordpress sea la carpeta que el servidor utilizar, y le damos los permisos correspondientes para asegurar que se puedan llevar a cabo las configuraciones, además es necesario para poder realizar la instalacion y que no haya problemas en el proceso, además si no lo hacemos nos pedira credenciales para un servidor FTP para descargar plugins, por el hecho de que no puede escribir directamente en lo que tengo
 
 <img width="1782" height="204" alt="image" src="https://github.com/user-attachments/assets/072fdbe8-f48a-447e-a21c-438b80cb9507" />
 
@@ -71,16 +71,32 @@ Tal y como muestro a continuacion
 
 #### Wordpress con el tema activado
 
+Aqui muestro la pagina de Wordpress con el tema personalizado activado, uso el tema Blogier
+
 <img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/6ebba131-6565-4636-abef-cf75e8d5f1e1" />
 
+Aqui la imagen de la informacion en la tienda de temas
+<img width="1889" height="969" alt="image" src="https://github.com/user-attachments/assets/9e009532-3437-4ea2-a153-845eba83907e" />
 
-## Necesario, dar permisos a la carpeta donde se encuentra Wordpress
-Es necesario para que los plugins y temas no den problemas al descargarse
+#### Plugins
+Aqui voy a poner una lista de plugins 
 
-<img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/2404a280-90fc-43ee-84bb-2a43f4a170cd" />
+##### Complianz
+Es un plugin para poner Banners de Cookies que soportan el ser configurados segun diversas politicas de privacidad, permitiendo poner una politica de cookies personalizada
 
+<img width="840" height="816" alt="image" src="https://github.com/user-attachments/assets/587f39f1-af5c-43cc-8363-770edb979a9d" />
 
+##### Autoptimize
+Es para optimizar la pagina de Wordpress, segun su pagina en el sitio de wordpress
 
+<img width="840" height="816" alt="image" src="https://github.com/user-attachments/assets/4690a717-eae3-4b49-9a34-5e232bc1c4af" />
 
+##### Polylang
+Te permite crear sitios multilingües de una manera facil, dandote opciones para tener sitios con varios idiomas, tiene una version pro que ofrece más caracteristicas [Pagina de Wordpress del plugin](https://wordpress.org/plugins/polylang/)
+
+<img width="840" height="816" alt="image" src="https://github.com/user-attachments/assets/bede4629-8f2a-40f1-b8ed-290152d86479" />
+
+Una vez esta instalado te proporciona esta pagina para empezar a configurar
+<img width="840" height="816" alt="image" src="https://github.com/user-attachments/assets/c70b95e9-5e48-4a3b-935d-69c3e8d2b526" />
 
 
