@@ -3,11 +3,15 @@
 ## Instalación
 ### Instalacion del servidor web
 
-<img width="598" height="34" alt="image" src="https://github.com/user-attachments/assets/46fa6ca7-9b3b-4233-8338-8ba386e2be5e" />
+Instalamos el servidor web con el siguiente comando
+
+<img width="1695" height="504" alt="image" src="https://github.com/user-attachments/assets/c10e2186-7e55-470b-9f61-6edcacbfcf94" />
+
 
 ### Base de datos
 Aunque esta maquina ya trae una base de datos voy a hacer lo que me dice el tutorial por asegurar compatibilidad y pereza para las cosas, tambien aprovecho y meto algunas
-<img width="718" height="69" alt="image" src="https://github.com/user-attachments/assets/b2cbc9c7-a3c9-4fa2-ad3d-8d41e4f4a508" />
+
+<img width="1782" height="204" alt="image" src="https://github.com/user-attachments/assets/21b4271b-1889-4fa0-9641-23807ff0ff5d" />
 
 
 <img width="720" height="109" alt="image" src="https://github.com/user-attachments/assets/6383e698-3e9e-4553-86c4-1bb3ac58ed83" />
@@ -17,34 +21,41 @@ Descargamos el comprimido que contiene el aplicativo de Wordpress desde su pagin
 
 <img width="711" height="422" alt="image" src="https://github.com/user-attachments/assets/f084f4aa-eb8b-4a56-b44b-62379c3a9315" />
 
-Hacemos que la carpeta que contiene wordpress sea la carpeta que el servidor utilizar
+Hacemos que la carpeta que contiene wordpress sea la carpeta que el servidor utilizar, y le damos los permisos correspondientes para asegurar que se puedan llevar a cabo las configuraciones
 
-<img width="629" height="25" alt="image" src="https://github.com/user-attachments/assets/9301684a-ac67-4465-86d7-811a3b33bba6" />
+<img width="1782" height="204" alt="image" src="https://github.com/user-attachments/assets/072fdbe8-f48a-447e-a21c-438b80cb9507" />
 
 
 
 ## Configuracion
 ### Configuraciones de la base de datos
 
-<img width="530" height="26" alt="image" src="https://github.com/user-attachments/assets/b5be475a-4ad9-4aaf-aa44-3a76ecb26577" />
+<img width="1782" height="204" alt="image" src="https://github.com/user-attachments/assets/03222cc0-de94-4898-938c-424e1b867695" />
+
 
 Entramos a la base de datos y aplicamos algunas configuraciones
 
-<img width="707" height="167" alt="image" src="https://github.com/user-attachments/assets/9f1a6d76-416b-4365-80a4-a2740bdde289" />
+<img width="1777" height="574" alt="image" src="https://github.com/user-attachments/assets/b701d57d-099e-45f0-a16c-4ab2e67bfa5b" />
+
 
 ### Configuracion del servidor web
 Activamos lo que necesitamos a nivel del servidor apache,segun lo que he buscado seria algo así
 
-<img width="707" height="167" alt="image" src="https://github.com/user-attachments/assets/0e5ff94c-6aba-4074-8016-f5f60eeede3e" />
+<img width="1777" height="533" alt="image" src="https://github.com/user-attachments/assets/ae7790ad-e6c3-4541-ad39-7ea683b12452" />
+
 
 ### Configuracion de Wordpress
+
+Nos pide configurar el idioma
+
+<img width="1859" height="755" alt="image" src="https://github.com/user-attachments/assets/f748b422-fdad-4625-b79d-365f5f880bf2" />
+
+
 Introducimos las credenciales de nuestra base de datos en la pagina que wordpress nos proporciona
 
-<img width="765" height="531" alt="image" src="https://github.com/user-attachments/assets/3a626e2d-65c0-400f-80c7-666129a5cfd7" />
+<img width="1859" height="755" alt="image" src="https://github.com/user-attachments/assets/8fa8d442-b358-4c71-8880-237558195160" />
 
-Luego nos va a mostrar las reglas de configuracion en un archivo **wp-config.php**, diciendome que necesito crear manualmente este archivo que no puede escribirlo, no es un problema lo creo y guardo lo que me indica, de hecho esto probablemente pasa debido a un problema que no vi en este momento con los permisos y que resuelvo más adelante
-
-<img width="765" height="531" alt="image" src="https://github.com/user-attachments/assets/8bf5ec03-339b-47cb-a32f-29223a7710c9" />
+Aqui nos apareceria un boton de realizar instalacion. Yo simplemente le di, **Ojo** si no configuras bien los permisos de la manera en la que mostre antes es necesario copiar el contendio del archivo **wp-config.php** y escribirlo manualmente.
 
 Tal y como muestro a continuacion
 
@@ -52,7 +63,7 @@ Tal y como muestro a continuacion
 
 #### Informacion del sitio
 
-<img width="843" height="824" alt="image" src="https://github.com/user-attachments/assets/5073ef5f-323e-47a7-9fe3-b5b7b9d2b55e" />
+<img width="1889" height="969" alt="image" src="https://github.com/user-attachments/assets/797bde99-63d4-4204-a3f0-798b84dc77c5" />
 
 ### Personalizacion y toques finales
 
