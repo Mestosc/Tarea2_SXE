@@ -71,7 +71,7 @@ Tal y como muestro a continuacion
 
 #### Wordpress con el tema activado
 
-Aqui muestro la pagina de Wordpress con el tema personalizado activado, uso el tema Blogier
+Aqui muestro la pagina de Wordpress con el tema personalizado activado, uso el tema Blogier, [Enlace al tema de Wordpress usado](https://wordpress.org/themes/blogier/)
 
 <img width="1903" height="919" alt="image" src="https://github.com/user-attachments/assets/6ebba131-6565-4636-abef-cf75e8d5f1e1" />
 
